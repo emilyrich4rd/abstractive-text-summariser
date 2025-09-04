@@ -13,7 +13,7 @@ The full GPU-training version should therefore produce a more accurate, abstract
 ### Prequisites
 - Python 3.9+
 - If running the full GPU-training version, a CUDA-compatible GPU is  required
-- Python package requirements are outlined in requirements.txt
+- Python package requirements are outlined in requirements.txt; newer versions of the resources in this file should work, but for reproducibility I have stated the exact versions I used
 
 ### Installation
 1. Clone the repo:
